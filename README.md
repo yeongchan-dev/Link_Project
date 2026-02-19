@@ -4,7 +4,12 @@ A mobile budgeting application designed for Korean international students in the
 
 ## App Preview
 
-
+<p align="center">
+  <img src="./screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-02-19 at 14.39.51.png" width="220"/>
+  <img src="./screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-02-19 at 14.40.03.png" width="220"/>
+  <img src="./screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-02-19 at 14.40.07.png" width="220"/>
+  <img src="./screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-02-19 at 14.40.12.png" width="220"/>
+</p>
 
 ## Background
 
